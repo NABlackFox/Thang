@@ -30,4 +30,9 @@ public class Claim {
         this.cardNumber = cardNumber;
         this.bankInfo = bankInfo;
     }
+
+    // Getter
+    public String getClaimID(){
+        return this.claimID;
+    }
 }

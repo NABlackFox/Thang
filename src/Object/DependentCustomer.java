@@ -1,5 +1,7 @@
 package Object;
 
+import Interface.ClaimProcessManager;
+
 public class DependentCustomer extends Customer{
 
     // Constructor
